@@ -1,2 +1,0 @@
-# Medfinder-Final
-Medfinder system
